@@ -10,4 +10,8 @@ Integrated version of SVD++ and neighborhood model
   
 Implementation of Probabilistic Matrix Factorization
 pmf  
-constrained_pmf
+constrained_pmf  
+  
+  
+Implementation of OCCF (One Class Collaborative Filtering)
+
