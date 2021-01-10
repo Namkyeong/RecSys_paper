@@ -1,7 +1,8 @@
 # RecSys_paper
 implementation of Recommender System papers
 
-## Explicit Feedback
+## Matrix Factorization based
+### Explicit Feedback
 Implementation of Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model  
 * [SVD(Singular Value Decomposition)](https://github.com/Namkyeong/RecSys_paper/blob/main/MatrixFactorization/SVD.ipynb)  
 * [SVD++](https://github.com/Namkyeong/RecSys_paper/blob/main/MatrixFactorization/SVDpp.ipynb)  
@@ -12,7 +13,8 @@ Implementation of Probabilistic Matrix Factorization
 * [PMF](https://github.com/Namkyeong/RecSys_paper/blob/main/MatrixFactorization/pmf.ipynb)   
 * [constrained_pmf](https://github.com/Namkyeong/RecSys_paper/blob/main/MatrixFactorization/constrained_pmf.ipynb)  
   
-  
+
+## Implicit Feedback
 Implementation of OCCF (One Class Collaborative Filtering)
 * [OCCF](https://github.com/Namkyeong/RecSys_paper/blob/main/MatrixFactorization/OCCF.ipynb)  
   
