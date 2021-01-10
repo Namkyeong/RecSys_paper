@@ -1,5 +1,6 @@
 # RecSys_paper
 implementation of Recommender System papers
+![recsys](./img/recsys.png)
 
 ## Matrix Factorization based
 ### Explicit Feedback
