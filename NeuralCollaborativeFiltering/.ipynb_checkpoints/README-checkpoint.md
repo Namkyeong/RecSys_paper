@@ -1,7 +1,4 @@
-# RecSys_paper
-implementation of Recommendation System papers
-
-## Neural Collaborative Filtering
+# Neural Collaborative Filtering
 Implementation of 'Neural Collaborative Filtering'   
 > He, Xiangnan, et al. "Neural collaborative filtering." Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017.
 
@@ -11,7 +8,7 @@ Implementation of 'Neural Collaborative Filtering'
 * [Author : Dr.Xiangnan He](http://staff.ustc.edu.cn/~hexn/)
 * [Author_Code](https://github.com/hexiangnan/neural_collaborative_filtering)
 
-### Experimental Results
+## Experimental Results
 GMF : Generalized Matrix Factorization model  
 MLP : Multi Layer Perceptron model  
 NeuMF : Neural Matrix Factorization model with pretrained parameters  
