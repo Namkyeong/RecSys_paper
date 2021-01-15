@@ -11,7 +11,7 @@ Implementation of 'Neural Collaborative Filtering'
 * [Author_Code](https://github.com/hexiangnan/neural_collaborative_filtering)
 
 ### Experiments
-![exp](./img/exp_1.png)  
+![exp](./imgs/exp_1.png)  
 
 
 
