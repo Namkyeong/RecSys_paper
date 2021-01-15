@@ -15,10 +15,18 @@ Implementation of Probabilistic Matrix Factorization
 * [constrained_pmf](https://github.com/Namkyeong/RecSys_paper/blob/main/MatrixFactorization/constrained_pmf.ipynb)  
   
 
-## Implicit Feedback
+### Implicit Feedback
 Implementation of OCCF (One Class Collaborative Filtering)
 * [OCCF](https://github.com/Namkyeong/RecSys_paper/blob/main/MatrixFactorization/OCCF.ipynb)  
   
   
 Implementation of Bayesian Personalized Ranking for Implicit Feedback
 * [BPR](https://github.com/Namkyeong/RecSys_paper/blob/main/MatrixFactorization/BPRwithMF.ipynb)  
+
+
+## models integrated with Multi Layer Perceptron
+Implementation of Neural Collaborative Filtering
+* [NeuMF](https://github.com/Namkyeong/RecSys_paper/blob/main/NeuralCollaborativeFiltering/NeuralCF.ipynb)  
+  
+Implementation of Collaborative Metric Learning
+* [CML](https://github.com/Namkyeong/RecSys_paper/blob/main/CollaborativeMetricLearning/CML.ipynb)

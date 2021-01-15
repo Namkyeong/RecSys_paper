@@ -5,6 +5,7 @@ implementation of Recommendation System papers
 Implementation of 'Neural Collaborative Filtering'   
 > He, Xiangnan, et al. "Neural collaborative filtering." Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017.
 
+![NCF](./img/model_description_1.PNG)  
 
 * [paper](https://arxiv.org/abs/1708.05031)
 * [Author : Dr.Xiangnan He](http://staff.ustc.edu.cn/~hexn/)
