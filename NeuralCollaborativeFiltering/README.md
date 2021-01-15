@@ -10,6 +10,10 @@ Implementation of 'Neural Collaborative Filtering'
 * [Author : Dr.Xiangnan He](http://staff.ustc.edu.cn/~hexn/)
 * [Author_Code](https://github.com/hexiangnan/neural_collaborative_filtering)
 
+### Experiments
+![exp](./img/exp_1.png)  
+
+
 
 ## References
 * [yihong-chen github](https://github.com/yihong-chen/neural-collaborative-filtering)
