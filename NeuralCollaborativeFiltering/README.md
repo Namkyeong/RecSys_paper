@@ -11,6 +11,9 @@ Implementation of 'Neural Collaborative Filtering'
 * [Author_Code](https://github.com/hexiangnan/neural_collaborative_filtering)
 
 ### Experimental Results
+GMF : Generalized Matrix Factorization model  
+MLP : Multi Layer Perceptron model  
+NeuMF : Neural Matrix Factorization model with pretrained parameters  
 ![exp_1](./img/exp_1.PNG)  
 
 
