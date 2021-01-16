@@ -23,3 +23,10 @@ ratings['rating'][ratings['rating'] > 0] = 1.0
 idx = ratings.groupby(["rating"]).apply(lambda x: x.sample(frac=0.2, random_state = 0)).index.get_level_values(1)
 test = ratings.iloc[idx, :].reset_index(drop = True)
 train = ratings.drop(idx).reset_index(drop = True)
+
+user_pool = set(train["userId"].unique()) # 6040
+item_pool = set(train["itemId"].unique()) # 3706
+
+interact_status = train.groupby("userId")["itemId"].apply(set).reset_index().rename(columns = {"itemId" : "interacted_items"})
+interact_status["negative_items"] = interact_status["interacted_items"].apply(lambda x: item_pool - x)
+train = pd.merge(train, interact_status, on="userId")
