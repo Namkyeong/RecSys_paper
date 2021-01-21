@@ -30,3 +30,11 @@ Implementation of Neural Collaborative Filtering
   
 Implementation of Collaborative Metric Learning
 * [CML](https://github.com/Namkyeong/RecSys_paper/blob/main/CollaborativeMetricLearning/CML.ipynb)
+
+Implementation of Wide&Deep Learning for Recommender Systems
+* [CML](https://github.com/Namkyeong/RecSys_paper/blob/main/CollaborativeMetricLearning/CML.ipynb)
+
+
+## models with social relationship
+Implementation of SoRec: Social Recommendation Using Probabilistic Matrix Factorization
+* [SoRec](https://github.com/Namkyeong/RecSys_paper/blob/main/MatrixFactorization/SoRec.ipynb)
