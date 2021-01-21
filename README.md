@@ -32,7 +32,7 @@ Implementation of Collaborative Metric Learning
 * [CML](https://github.com/Namkyeong/RecSys_paper/blob/main/CollaborativeMetricLearning/CML.ipynb)
 
 Implementation of Wide&Deep Learning for Recommender Systems
-* [CML](https://github.com/Namkyeong/RecSys_paper/blob/main/CollaborativeMetricLearning/CML.ipynb)
+* [Wide&Deep](https://github.com/Namkyeong/RecSys_paper/blob/main/Wide_Deep/Wide_Deep.ipynb)
 
 
 ## models with social relationship
